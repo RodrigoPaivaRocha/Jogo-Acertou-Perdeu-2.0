@@ -1,0 +1,7 @@
+C:\Users\usuario\source\repos\acertouPerdeu2.0\acertouPerdeu2.0\bin\Debug\acertouPerdeu2.0.exe.config
+C:\Users\usuario\source\repos\acertouPerdeu2.0\acertouPerdeu2.0\bin\Debug\acertouPerdeu2.0.exe
+C:\Users\usuario\source\repos\acertouPerdeu2.0\acertouPerdeu2.0\bin\Debug\acertouPerdeu2.0.pdb
+C:\Users\usuario\source\repos\acertouPerdeu2.0\acertouPerdeu2.0\obj\Debug\acertouPerdeu2.0.csproj.AssemblyReference.cache
+C:\Users\usuario\source\repos\acertouPerdeu2.0\acertouPerdeu2.0\obj\Debug\acertouPerdeu2.0.csproj.CoreCompileInputs.cache
+C:\Users\usuario\source\repos\acertouPerdeu2.0\acertouPerdeu2.0\obj\Debug\acertouPerdeu2.0.exe
+C:\Users\usuario\source\repos\acertouPerdeu2.0\acertouPerdeu2.0\obj\Debug\acertouPerdeu2.0.pdb
